@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "dnh_nbdev_test"
+  site-url: "https://danhorner.github.io/dnh_nbdev_test"
+  description: "Repo for the nbdev walkthrough"
+  repo-branch: main
+  repo-url: "https://github.com/danhorner/dnh_nbdev_test"
